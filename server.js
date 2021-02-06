@@ -4,6 +4,7 @@
 const express = require('express')
 const bodyParser = require('body-parser');
 const converter = require('json-2-csv');
+
 fs = require('fs');
 
 const app = express()
@@ -20,8 +21,9 @@ app.post("/getall" , (req,res)=>{
       }
   
       // print CSV string
-      console.log(csv);
-      fs.writeFileSync('todos.csv', csv);
+     var date= new Date().toISOString() + '.csv';
+      console.log(date);
+      fs.writeFileSync(date, csv);
   });
     res.send("ok")
 })
