@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Inventaire.iml" filepath="$PROJECT_DIR$/.idea/modules/Inventaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Inventaire.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Inventaire.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/235781852/Inventaire.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/235781852/Inventaire.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1281751616/Inventaire.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1281751616/Inventaire.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1771203939/Inventaire.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1771203939/Inventaire.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

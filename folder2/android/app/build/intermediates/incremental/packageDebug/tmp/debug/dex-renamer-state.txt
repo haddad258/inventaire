@@ -1,0 +1,4 @@
+#Sat Dec 26 12:19:40 CET 2020
+base.0=/home/haddadrafik258/Videos/HNC/Inventaire/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
