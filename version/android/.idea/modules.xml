@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InventaireArticle.iml" filepath="$PROJECT_DIR$/.idea/modules/InventaireArticle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InventaireArticle.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InventaireArticle.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1380982443/InventaireArticle.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1380982443/InventaireArticle.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-446461662/InventaireArticle.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-446461662/InventaireArticle.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-46897222/InventaireArticle.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-46897222/InventaireArticle.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1098440971/InventaireArticle.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1098440971/InventaireArticle.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1904018147/InventaireArticle.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1904018147/InventaireArticle.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1646041903/InventaireArticle.react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1646041903/InventaireArticle.react-native-sqlite-storage.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#Tue Jan 19 16:11:55 CET 2021
+base.0=/home/haddadrafik258/Videos/HNC/InventaireArticle/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

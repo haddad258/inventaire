@@ -1,0 +1,13 @@
+<Text>Address: {item.compte_comptable}</Text> 
+<Text>Address: {item.serial_number }</Text> 
+<Text>Address: {item.status }</Text> 
+<Text>Address: {item.new_code }</Text> 
+<Text>Address: {item.date }</Text> 
+<Text>Address: {item.categorie  }</Text> 
+<Text>Address: {item.designation  }</Text> 
+<Text>Address: {item.ancien_code  }</Text> 
+<Text>Address: {item.code_compte }</Text> 
+ <Text>Address: {item.dateAdd }</Text> 
+<Text>Address: {item.location }</Text> 
+
+new_code}</Text>
