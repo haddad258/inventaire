@@ -1,0 +1,39 @@
+{
+  "name": "nodemysqlcrudapp",
+  "version": "1.0.0",
+  "description": "This is app for creating crud api using node, express and mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mysql",
+    "api",
+    "restfulapi",
+    "javascript",
+    "es6"
+  ],
+  "author": "Rahul Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "barc": "0.0.4",
+    "barcode": "^0.1.0",
+    "barcode-generator": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs-extra": "^9.0.1",
+    "http-errors": "^1.8.0",
+    "multiparty": "^4.2.2",
+    "mysql": "^2.18.1",
+    "parse-multipart-data": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "prettier": "2.2.1"
+  }
+}
